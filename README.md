@@ -1,2 +1,2 @@
 # about
-Documentation on the applciation
+The main repository containing installation instructions, documentation, architecture, design, etc.
